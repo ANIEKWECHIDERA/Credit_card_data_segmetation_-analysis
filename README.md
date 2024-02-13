@@ -12,10 +12,14 @@ Develop personalized marketing strategies tailored to each customer segment to e
 
 # Methodology:
 
-## Data Collection: Credit card transaction data from 8500 active customers was collected and cleaned to remove any inconsistencies or missing values. \
-## Segmentation: Customers were segmented based on demographic factors (age, marital status, income category) and spending behavior clusters (A, B, C, D) using clustering algorithms. \
-## Analysis: Descriptive statistics and visualization techniques were used to analyze spending behavior, transaction patterns, and engagement levels within each segment. \
-## Strategy Development: Based on the insights gained from the analysis, personalized marketing strategies were formulated for each customer segment.
+## Data Collection: 
+Credit card transaction data from 8500 active customers was collected and cleaned to remove any inconsistencies or missing values. \
+## Segmentation: 
+Customers were segmented based on demographic factors (age, marital status, income category) and spending behavior clusters (A, B, C, D) using clustering algorithms. \
+## Analysis: 
+Descriptive statistics and visualization techniques were used to analyze spending behavior, transaction patterns, and engagement levels within each segment. \
+## Strategy Development: 
+Based on the insights gained from the analysis, personalized marketing strategies were formulated for each customer segment.
 
 # Findings: 
 
@@ -36,10 +40,13 @@ Cluster A had the lowest engagement levels, suggesting potential areas for impro
 
 # Recommendations:
 
-## Tailored Marketing Strategies:
-## Age Segments: Customize promotions and incentives based on age groups to address specific preferences and behaviors.  \
-## Marital Status Segments: Offer personalized rewards and benefits to cater to the unique needs of different marital statuses. \
-## Income Category Segments: Implement affordability-focused marketing strategies for lower-income segments and premium offerings for higher-income segments. \
+# Tailored Marketing Strategies:
+## Age Segments: 
+Customize promotions and incentives based on age groups to address specific preferences and behaviors.  \
+## Marital Status Segments: 
+Offer personalized rewards and benefits to cater to the unique needs of different marital statuses. \
+## Income Category Segments: 
+Implement affordability-focused marketing strategies for lower-income segments and premium offerings for higher-income segments. \
 ## Spending Behavior Clusters: Design targeted campaigns to maximize engagement and loyalty within each spending behavior cluster.
 
 # Conclusion:

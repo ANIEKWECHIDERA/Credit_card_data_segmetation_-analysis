@@ -21,9 +21,12 @@ Develop personalized marketing strategies tailored to each customer segment to e
 
 # Demographic Segments:
 
-## Age: Customers aged 46-56 exhibited the highest transaction amounts, while those above 66 showed the highest engagement levels. \
-## Marital Status: Single customers had higher transaction amounts and counts compared to other marital statuses. \
-## Income Category: Customers with income less than 40K demonstrated the highest transaction amounts and counts.
+## Age: 
+Customers aged 46-56 exhibited the highest transaction amounts, while those above 66 showed the highest engagement levels. \
+## Marital Status: 
+Single customers had higher transaction amounts and counts compared to other marital statuses. \
+## Income Category: 
+Customers with income less than 40K demonstrated the highest transaction amounts and counts.
 
 ## Spending Behavior Clusters:
 

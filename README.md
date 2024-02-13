@@ -40,7 +40,7 @@ The analysis highlights the importance of understanding customer behavior and pr
 
 # References:
 
-Credit Card Transaction Data https://www.kaggle.com/datasets/sakshigoyal7/credit-card-customers /
-Python Programming Language & Microsoft Excel /
-Data Visualization Libraries: Matplotlib, Seaborn /
+Credit Card Transaction Data https://www.kaggle.com/datasets/sakshigoyal7/credit-card-customers \
+Python Programming Language & Microsoft Excel \
+Data Visualization Libraries: Matplotlib, Seaborn \
 Machine Learning Libraries: Scikit-learn

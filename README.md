@@ -1,1 +1,1 @@
-# Credit_card_data_segmetation_-analysis
+# Credit_card_data_segmetation_analysis

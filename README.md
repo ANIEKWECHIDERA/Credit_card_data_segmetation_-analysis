@@ -6,14 +6,14 @@ This report presents a comprehensive analysis of customer segmentation and perso
 # Objective:
 The primary objective of this analysis is to:
 
-Segment customers based on demographic factors such as age, marital status, income category, and spending behavior clusters. \
-Analyze spending habits, transaction amounts, transaction counts, and utilization ratios within each segment. \
-Develop personalized marketing strategies tailored to each customer segment to enhance engagement and loyalty.
+1.Segment customers based on demographic factors such as age, marital status, income category, and spending behavior clusters. \
+2.Analyze spending habits, transaction amounts, transaction counts, and utilization ratios within each segment. \
+3.Develop personalized marketing strategies tailored to each customer segment to enhance engagement and loyalty.
 
 # Methodology:
 
 ## Data Collection: 
-Credit card transaction data from 8500 active customers was collected and cleaned to remove any inconsistencies or missing values.
+Credit card transaction data from 8500 active customers was collected and cleaned to remove any inconsistencies or missing values using Microsoft Excel.
 ## Segmentation: 
 Customers were segmented based on demographic factors (age, marital status, income category) and spending behavior clusters (A, B, C, D) using clustering algorithms.
 ## Analysis: 
